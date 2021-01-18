@@ -1,4 +1,4 @@
-% load_files - function to select a series of files and save their names /
+% LOAD_FILES - function to select a series of files and save their names /
 % directories in a cell.  
 %
 %
@@ -20,12 +20,9 @@
 % Returns:
 %       files           - Cell containing the files 
 %       path            - Cell containing the cell path  
-%       n               - Number of files  
+%       n               - Number of files 
 % 
-% Dependencies: 
-%   MATLAB Version >= 9.5 
-%
-%
+% 
 % Tessa Morris
 % Advisor: Anna Grosberg
 % Cardiovascular Modeling Laboratory 
